@@ -6,7 +6,9 @@ I have created an overview of my projects below, it's all open source and free t
 ## Project overview
 
 - **Robots**
-  - [Crabsy](https://github.com/zvv2/Crabsy): A hexapod robot designed to be taught by AI
+  - [Crabsy](https://github.com/zvv2/Crabsy.git): A hexapod robot designed to be taught by AI
+  - [DrAI](https://github.com/SamuelNoesslboeck/DrAI.git): Diploma Project of [Rene Schwarz](https://github.com/SchwarzRene) and mine
+  - [SyArm](https://github.com/SamuelNoesslboeck/SyArm.git): The first ever robotic arm I created 
 - **Controllers**
   - [MagicBox](https://github.com/SamuelNoesslboeck/MagicBox.git): A flexible & programmable LoRa controller for different applications
     - [magicontent](https://github.com/SamuelNoesslboeck/magicontent.git)
