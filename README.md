@@ -6,6 +6,7 @@ I have created an overview of my projects below, it's all open source and free t
 ## Project overview
 
 - **Robots**
+  - [Bugsy](https://github.com/SamuelNoesslboeck/Bugsy.git): A simple robot designed for some control and SLAM tests
   - [Crabsy](https://github.com/zvv2/Crabsy.git): A hexapod robot designed to be taught by AI
   - [DrAI](https://github.com/SamuelNoesslboeck/DrAI.git): Diploma Project of [Rene Schwarz](https://github.com/SchwarzRene) and mine
   - [SyArm](https://github.com/SamuelNoesslboeck/SyArm.git): The first ever robotic arm I created 
@@ -13,4 +14,6 @@ I have created an overview of my projects below, it's all open source and free t
   - [MagicBox](https://github.com/SamuelNoesslboeck/MagicBox.git): A flexible & programmable LoRa controller for different applications
     - [magicontent](https://github.com/SamuelNoesslboeck/magicontent.git)
 - **Libraries**
+  - [syact](https://github.com/SamuelNoesslboeck/syact.git): A rust library for controlling stepper motors and other components using a Raspberry Pi, including general definitions for mechanical devices
+  - [sybot](https://github.com/SamuelNoesslboeck/sybot.git): A rust library for controlling assemblies of components, including coordinate systems and complex mechanical calculations
   - [sylo](https://github.com/SamuelNoesslboeck/sylo.git): A small helper library with components and sturctures frequently used in low level programming, especially with the arduino framework
