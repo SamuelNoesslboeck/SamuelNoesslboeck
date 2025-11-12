@@ -12,7 +12,8 @@ I have created an overview of my projects below, it's all open source and free t
     - [CrabOS](https://github.com/SamuelNoesslboeck/crab_os.git): Low-level control software for the Crabsy robot
   - [DrAI](https://github.com/SamuelNoesslboeck/DrAI.git): Diploma Project of [Rene Schwarz](https://github.com/SchwarzRene) and mine
   - [SyArm](https://github.com/SamuelNoesslboeck/SyArm.git): The first ever robotic arm I created 
-- **Controllers**
+- **Gadgets**
+  - [DrRoll](https://github.com/SamuelNoesslboeck/DrRoll.git): Modified cardboard roll to store/transport A2 & A3 drawings/posters
   - [MagicBox](https://github.com/SamuelNoesslboeck/MagicBox.git): A flexible & programmable LoRa controller for different applications
     - [magicontent](https://github.com/SamuelNoesslboeck/magicontent.git): HAL for the MagicBox, including demo programs
 - **Libraries**
