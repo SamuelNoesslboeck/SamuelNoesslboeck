@@ -19,3 +19,5 @@ I have created an overview of my projects below, it's all open source and free t
   - [syact](https://github.com/SamuelNoesslboeck/syact.git): A rust library for controlling stepper motors and other components using a Raspberry Pi, including general definitions for mechanical devices
   - [sybot](https://github.com/SamuelNoesslboeck/sybot.git): A rust library for controlling assemblies of components, including coordinate systems and complex mechanical calculations
   - [sylo](https://github.com/SamuelNoesslboeck/sylo.git): A small helper library with components and sturctures frequently used in low level programming, especially with the arduino framework
+- **Misc**
+  - [noob_slam](https://github.com/zvv2/noob_slam.git): Basic SLAM algorithm created by noobs
